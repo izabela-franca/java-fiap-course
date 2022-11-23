@@ -5,9 +5,9 @@ class StringEquality {
     String b = cat;
     
     if (a.equals(b)) {
-      System.out.println(Strings equal!);
+      System.out.println("Strings are equal!");
     } else {
-      System.out.println(String different!);
+      System.out.println("Strings are different!");
     }
   }
 }
