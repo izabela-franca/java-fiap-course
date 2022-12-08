@@ -14,12 +14,14 @@ public class App1 {
 
         a1.print();
 
+        System.out.println("-------------------");
+
         SavingsAccount a2 = new SavingsAccount();
         a2.setNumber("5432-1");
         a2.setOwner("Diego");
+        a2.setRate(1.2);
         a2.setBalance(1500);
 
         a2.print();
     }
-
 }
