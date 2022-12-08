@@ -3,7 +3,7 @@ package account;
 public class Account {
     private String owner;
     private String number;
-    private double balance;
+    protected double balance;
 
     public String getOwner() {
         return owner;
@@ -30,12 +30,8 @@ public class Account {
     }
 
     public void print() {
-        System.out.println(
-                "Account{" +
-                        "owner='" + owner + '\'' +
-                        ", number='" + number + '\'' +
-                        ", balance=" + balance +
-                        '}'
-        );
+        System.out.println("Owner: " + owner);
+        System.out.println("Number: " + number);
+        System.out.println("Balance: " + balance);
     }
 }
