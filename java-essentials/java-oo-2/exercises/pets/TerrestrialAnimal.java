@@ -1,6 +1,6 @@
 package exercises.pets;
 
-public class TerrestrialAnimal extends Pet{
+public abstract class TerrestrialAnimal extends Pet{
 
     public void walk() {
         System.out.println("They walk.");
