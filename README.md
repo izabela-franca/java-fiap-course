@@ -3,7 +3,7 @@ A repository with contents seen during the Java Insider course about Java
 <br>Contents:
   - Core Java;
   - Object-oriented programming;
-  - Treating exceptions;
+  - Handling exceptions;
   
 -------------------------------------------------------------------------------------
 
