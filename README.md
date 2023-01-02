@@ -4,7 +4,7 @@ A repository with contents seen during the Java Insider course about Java
   - Core Java;
   - Object-oriented programming;
   - Handling exceptions;
-  - Special types (String, Enum);
+  - Special types (String, Enum, Wrappers);
   
 -------------------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ Um repositório com os conteúdos vistos durante o curso Java Insider sobre Java
   - Java Core;
   - Programação Orientada a Objetos;
   - Tratando exceções;
-  - Tipos especiais (Strings, Enum);
+  - Tipos especiais (Strings, Enum, Wrappers);
