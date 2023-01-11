@@ -1,0 +1,23 @@
+package lists;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class ListApp4 {
+
+    public static void main(String[] args) {
+
+        Integer[] array = { 1, 2, 3, 4 };
+
+        //Array -> List
+        List<Integer> list = Arrays.asList(array);
+        System.out.println(list);
+
+        List<Integer> list2 = Arrays.asList(new Integer[] { 1, 2, 3, 4 });
+        System.out.println(list2);
+
+        //List -> Array
+        Integer[] array2 = list.toArray(new Integer[4]);
+        System.out.println(Arrays.toString(array2));
+    }
+}
