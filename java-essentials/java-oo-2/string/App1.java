@@ -1,8 +1,5 @@
 package app;
 
-import account.Account;
-import account.SavingsAccount;
-
 public class App1 {
 
     public static void main(String[] args) {
