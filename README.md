@@ -6,7 +6,7 @@ A repository with contents seen during the Java Insider course.
   - Handling exceptions;
   - Special types (String, Enum, Wrappers);
   - Text and Numbers (Formating Strings and Numbers, Regex, Random, Big Numbers and Rounding);
-  - Java Collections API (arrays, lists, sets);
+  - Java Collections API (arrays, lists, sets and maps);
   
 -------------------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Um repositório com os conteúdos vistos durante o curso Java Insider.
   - Tratando exceções;
   - Tipos especiais (Strings, Enum, Wrappers);
   - Textos e Números (Formatando Strings e números, Regex, Random, Big Numbers e arredondamento);
-   - Java Collections API (arrays, listas, sets);
+   - Java Collections API (arrays, listas, sets e maps);
