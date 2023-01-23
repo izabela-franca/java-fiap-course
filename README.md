@@ -1,5 +1,5 @@
 # Java Insider Course
-A repository with contents seen during the Java Insider course.  
+A repository with contents seen and notes taken during the Java Insider course.  
 <br>Contents:
   - Core Java;
   - Object-oriented programming;
@@ -11,7 +11,7 @@ A repository with contents seen during the Java Insider course.
   
 -------------------------------------------------------------------------------------
 
-Um repositório com os conteúdos vistos durante o curso Java Insider.
+Um repositório com os conteúdos vistos anotações feitas durante o curso Java Insider.
 <br>Conteúdo:
   - Java Core;
   - Programação Orientada a Objetos;
