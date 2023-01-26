@@ -8,6 +8,7 @@ A repository with contents seen and notes taken during the Java Insider course.
   - Text and Numbers (Formating Strings and Numbers, Regex, Random, Big Numbers and Rounding);
   - Java Collections API (arrays, lists, sets and maps);
   - Date and Time API;
+  - NIO.2;
   
 -------------------------------------------------------------------------------------
 
@@ -20,3 +21,4 @@ Um repositório com os conteúdos vistos anotações feitas durante o curso Java
   - Textos e Números (Formatando Strings e números, Regex, Random, Big Numbers e arredondamento);
   - Java Collections API (arrays, listas, sets e maps);
   - Date and Time API;
+  - NIO.2;
