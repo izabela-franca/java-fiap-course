@@ -15,7 +15,7 @@ public class FilesApp {
 
         System.out.println("------------------");
 
-        Path file2 = Path.of("C:", "Users", "ifran", "Desktop", "Programação", "Linguagem Java", "Java Insider", "java-essentials", "java-io", "examples", "file1.txt");
+        Path file2 = Path.of("C:", "Users", "ifran", "Desktop", "Programação", "Linguagem Java", "Java Insider", "java-essentials", "java-io", "examples", "file2.txt");
         System.out.println(Files.exists(file2));
 
         System.out.println(Files.isDirectory(file2));
