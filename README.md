@@ -22,7 +22,7 @@ A repository with contents seen and notes taken during the Java Insider course.
   - NIO.2;
   
   ## Java Professional I <h3>
-  - Inner Classes;
+  - Inner Classes (Regular Inner Class, Static Nested Class, Local Inner Class, Anonymous Inner Class);
   
 <br>
 <br>
@@ -46,4 +46,4 @@ Um repositório com os conteúdos vistos anotações feitas durante o curso Java
   - NIO.2;
 
   ## Java Professional I <h3>
-  - Inner Classes;
+  - Inner Classes (Regular Inner Class, Static Nested Class, Local Inner Class, Anonymous Inner Class) ;
