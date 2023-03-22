@@ -1,5 +1,8 @@
-//Quando temos uma classe anônima de uma interface que implementa um método, pode usar expressão Lambda
-// Estrutura: (parâmetros) -> {corpo}
+/*
+Quando temos uma classe anônima de uma interface que implementa um método, pode usar expressão Lambda
+Estrutura: (parâmetros) -> {corpo}
+NÃO podemos usar como expressões Lambdas implemetações de Interfaces que tenham mais um método (Interface Funcional = Interface com apenas uma método)
+*/
 
 public class AppCalc1 {
 
