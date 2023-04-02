@@ -1,5 +1,7 @@
 package anonymous;
 
+//Em situações, em que não precisamos da classe (ou seja, não instanciaremos ela em outro lugar), podemos omitir ou nome desta, tornando-a uma Anonymous Inner Class
+
 public class AnonymousInnerClassApp1 {
 
     public static void main(String[] args) {
