@@ -1,6 +1,6 @@
 package regular;
 
-//Alter Class
+//Outer Class
 public class Operation {
 
     private final int value1;
