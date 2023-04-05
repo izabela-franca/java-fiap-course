@@ -1,10 +1,10 @@
-# Inner Classes / Nested Classes
+# :memo: Inner Classes / Nested Classes
 
 - Quando temos uma classe dentro de outra classes;
 - Existem diferentes tipos de Inner Classes: regular(ou nested) inner class, 
 static inner (ou nested) class, local (ou method) inner class e anonymous inner class.
 
-### Regular Inner Class
+### :pushpin: Regular Inner Class
 
 - Útil quando queremos encapsular uma classe;
 - Possui acesso aos atributos da outer class (classe na qual ela está inserida);
