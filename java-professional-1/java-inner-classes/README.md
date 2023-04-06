@@ -18,4 +18,8 @@ static inner (ou nested) class, local (ou method) inner class e anonymous inner 
     - Para instância-la primeiro precisamos instanciar a Outer Class, e então: OuterClass.InnerClass innerClass = outterclass.new InnerClass();
     -![img_2](https://user-images.githubusercontent.com/101933646/230068927-6d067194-20b7-4904-88d7-8ebfa6f149c0.png)
 
+### Static Nested Class
+- A Outer Class e a Static Class não tem, ou seja, a Static class não utiliza nenhum atributo da Outer Class;
+- ![image](https://user-images.githubusercontent.com/101933646/230398442-276af78f-a5c4-40ad-980e-46f524c058c2.png)
+
   
