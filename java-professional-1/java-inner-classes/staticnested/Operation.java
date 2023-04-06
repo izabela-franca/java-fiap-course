@@ -26,7 +26,7 @@ public class Operation {
         return initialValue;
     }
 
-    //Static Nested Class - Independe da "Alter Class"
+    //Static Nested Class - Independe da "Outer Class"
     public static class Counter {
         private int value = getInitialValue();  //possível acessar pois é static
 
