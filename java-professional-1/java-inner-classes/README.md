@@ -27,3 +27,12 @@ static inner (ou nested) class, local (ou method) inner class e anonymous inner 
 - A classe existirá APENAS dentro do método onde foi criada;
 - ![image](https://user-images.githubusercontent.com/101933646/230722306-75916793-5139-4e8d-ba47-231def75c28e.png)
 - Local Inner Classes conseguem acessar atributos de suas Outer Classes e as variáveis(finais)locais dos métodos onde foram criadas;  
+
+### :pushpin: Anonymous l Inner Class 
+- É a base da Programação Funcional do Java (Expressões Lambda e Sream API;
+- É uma classe que não tem nome;
+- Muito utilizado quando não precisamos da classe, e sim da sua instância;
+- ![image](https://user-images.githubusercontent.com/101933646/230723378-02e6d529-cb70-4534-b39d-063abed21ad3.png)
+- Não é necessário criar uma classe, precisamos apenas criar a chamada para instanciar a classe anônima;
+- Não pode ser instanciada mais de uma vez;
+- Além de serem criadas para implementar interfaces, anonymous classes também pode ser criadas para herança;
