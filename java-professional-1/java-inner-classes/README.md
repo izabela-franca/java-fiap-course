@@ -11,7 +11,7 @@ static inner (ou nested) class, local (ou method) inner class e anonymous inner 
 - Por possuir este acesso, não há necessidade de passar parâmetros;
 - Exemplo:
 
-![img_3](https://user-images.githubusercontent.com/101933646/230068885-41ddce7f-a3f9-4d2d-8052-b58580d3ded7.png)
+- ![img_3](https://user-images.githubusercontent.com/101933646/230068885-41ddce7f-a3f9-4d2d-8052-b58580d3ded7.png)
 
 
 - É possível instanciar uma Inner Class fora da sua Outer Class, para isso basta criá-la como pública;
@@ -22,4 +22,8 @@ static inner (ou nested) class, local (ou method) inner class e anonymous inner 
 - A Outer Class e a Static Class não tem, ou seja, a Static class não utiliza nenhum atributo da Outer Class;
 - ![image](https://user-images.githubusercontent.com/101933646/230398442-276af78f-a5c4-40ad-980e-46f524c058c2.png)
 
-  
+### :pushpin: (Method) Local Inner Class 
+- É uma classe criada dentro de um método;
+- A classe existirá APENAS dentro do método onde foi criada;
+- ![image](https://user-images.githubusercontent.com/101933646/230722306-75916793-5139-4e8d-ba47-231def75c28e.png)
+- Local Inner Classes conseguem acessar atributos de suas Outer Classes e as variáveis(finais)locais dos métodos onde foram criadas;  
