@@ -6,6 +6,9 @@ public class AnonymousInnerClassApp1 {
 
     public static void main(String[] args) {
 
+        //Isso seria instanciar uma classe
+        //Message message = new Message();
+        
         //Anonymous Inner Class
         Message message = new Message() {   //Não está instanciando uma interface, mas sim criando uma classe anônima que implementa um interface
             @Override
