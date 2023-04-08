@@ -10,7 +10,7 @@ public class Application2 {
 
         class Greeter {
             public void sayHi() {
-                System.out.format("%s, %s!", message, upperName);   //Conseguem acessar atributos da sua Alter Class. E se forem Inner Classes do tipo local, conseguem acessar as variáveis locais do método
+                System.out.format("%s, %s!", message, upperName);   //Conseguem acessar atributos da sua Outer Class. E se forem Inner Classes do tipo local, conseguem acessar as variáveis locais do método
             }
         }
 
