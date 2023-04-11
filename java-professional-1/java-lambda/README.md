@@ -1,4 +1,4 @@
-# Lambda Expressions
+# :memo: Lambda Expressions
 
 - Utilizam o paradigma de programação funcional (focada em funções que podem ser utilizadas como parâmetros e retornadas);
 - O conceitos de Lambda Expressions são baseados nas Anonymous Inner Classes;
