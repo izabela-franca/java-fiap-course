@@ -5,7 +5,7 @@ public class AppCalc1 {
 
     public static void main(String[] args) {
 
-
+        //Anonymous class
         Operation sum = new Operation() {
             @Override
             public int calculate(int n1, int n2) {
