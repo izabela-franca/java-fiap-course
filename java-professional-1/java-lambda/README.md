@@ -11,4 +11,14 @@
   - ![image](https://user-images.githubusercontent.com/101933646/231170957-11d0124e-205a-483d-958e-dc129302b61e.png)
   - ![image](https://user-images.githubusercontent.com/101933646/231171410-3371c353-59bc-4b51-a1fa-7801e95e47bb.png)
 
+- Podemos usar Lambda Expressions como parâmetros:
+- ![image](https://user-images.githubusercontent.com/101933646/231768375-2642f589-4c9d-466b-8858-8417406ab676.png)
+
+### :pushpin: Method Reference
+
+- Usado quando a lambda expression tem apenas uma linha de código e na sua execução o parâmetro é usado;
+- Oculta-se o parâmetro;
+- ![image](https://user-images.githubusercontent.com/101933646/231770406-e42d67d2-bc34-4e68-a933-b1c82b57aaa0.png)
+- Também pode ser usado em um construtor:
+- ![image](https://user-images.githubusercontent.com/101933646/231772667-ec1066b0-f19a-422d-a620-4ba4ffb5cd4a.png)
 
