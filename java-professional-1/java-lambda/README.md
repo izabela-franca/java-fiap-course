@@ -22,3 +22,9 @@
 - Também pode ser usado em um construtor:
 - ![image](https://user-images.githubusercontent.com/101933646/231772667-ec1066b0-f19a-422d-a620-4ba4ffb5cd4a.png)
 
+
+### :pushpin: Closures
+
+- Lambda Expression que não depende apenas dos parâmetros que ela recebe, mas também, de uma variável definida fora dela;
+- ![image](https://user-images.githubusercontent.com/101933646/232053921-84d992bb-de05-41ae-b581-b3a681aceb19.png)
+- Quando uma Lambda Expression usa um atributo e não uma variável local, a mesma pode ser alterada, não é preciso ser final;
