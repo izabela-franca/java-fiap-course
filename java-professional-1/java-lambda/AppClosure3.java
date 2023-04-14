@@ -10,7 +10,7 @@ public class AppClosure3 {
         var n2 = p.provide();
 
         System.out.println(n1.getNumber());
-        System.out.println(n2.getNumber());     //O valor do atributo será usado na chamada, por ambos os n's fora o mesmo número
+        System.out.println(n2.getNumber());     //O valor do atributo será usado na chamada, pois o mesmo atributo é compartilhado por todas as lambda expressions
 
         //Para resolvermos isso devemos eliminar a dependência do atributo, ou seja, criar uma variável local
     }
