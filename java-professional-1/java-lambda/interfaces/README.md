@@ -5,3 +5,11 @@
 ### Consumer
 * Recebe um único parâmetro e não retorna nada;
 * ![img.png](img.png)
+
+### BiConsumer
+* Recebe dois parâmetros, de tipos diferentes, e não retorna nada;
+* ![img_1.png](img_1.png)
+
+### Predicate
+* Recebe um parâmetro e retorna um boolean;
+* ![img_2.png](img_2.png)
