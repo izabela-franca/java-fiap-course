@@ -1,3 +1,7 @@
+/*
+O Optional foi introduzido para representar um valor ausente dentro de um retorno de método
+*/
+
 package api;
 
 import java.util.Map;
