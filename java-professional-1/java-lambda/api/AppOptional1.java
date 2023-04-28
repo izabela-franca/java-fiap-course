@@ -1,5 +1,6 @@
 /*
 O Optional foi introduzido para representar um valor ausente dentro de um retorno de método
+É um container que reprensenta informações retornadas, podendo ou não estar presentes.
 */
 
 package api;
@@ -7,7 +8,7 @@ package api;
 import java.util.Map;
 
 public class AppOptional1 {
-
+https://github.com/izabela-franca/java-insider-course/blob/main/java-professional-1/java-lambda/api/AppOptional1.java
     public static void main(String[] args) {
 
         People people = new People(Map.of(
