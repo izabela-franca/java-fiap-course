@@ -24,6 +24,7 @@ A repository with contents seen and notes taken during the Java Insider course.
   ## Java Professional I <h3>
   - Inner Classes (Regular Inner Class, Static Nested Class, Local Inner Class, Anonymous Inner Class);
   - Lambda Expressions;
+  - Stream API;
   
 <br>
 <br>
@@ -49,3 +50,4 @@ Um repositório com os conteúdos vistos anotações feitas durante o curso Java
   ## Java Professional I <h3>
   - Inner Classes (Regular Inner Class, Static Nested Class, Local Inner Class, Anonymous Inner Class) ;
   - Expressões Lambda;
+   - Stream API;
