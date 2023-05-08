@@ -1,4 +1,4 @@
-# Lambda Expressions
+# :memo: Lambda Expressions
 
 - Utilizam o paradigma de programação funcional (focada em funções que podem ser utilizadas como parâmetros e retornadas);
 - O conceitos de Lambda Expressions são baseados nas Anonymous Inner Classes;
@@ -14,7 +14,7 @@
 - Podemos usar Lambda Expressions como parâmetros:
 - ![img_3.png](img/img_3.png)
 
-### Method Reference
+### :pushpin: Method Reference
 
 - Usado quando a lambda expression tem apenas uma linha de código e na sua execução o parâmetro é usado;
 - Oculta-se o parâmetro;
@@ -22,7 +22,7 @@
 - Também pode ser usado em um construtor:
 - ![img_5.png](img/img_5.png)
 
-### Closures
+### :pushpin: Closures
 
 - Lambda Expression que não depende apenas dos parâmetros que ela recebe, mas também, de uma variável definida fora dela;
 - ![img_6.png](img/img_6.png)
