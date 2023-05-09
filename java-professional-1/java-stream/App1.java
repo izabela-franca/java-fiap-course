@@ -9,11 +9,11 @@ public class App1 {
         //Opção 1: criando uma Stream
         Stream<String> s1 = Stream.of("A", "B", "C");
 
-        //Opção 2: criando uma Stream
+        //Opção 2: criando uma Stream para arrays
         String[] array = {"A", "B", "C"};
         Stream<String> s2 = Arrays.stream(array);
 
-        //Opção 3: Criando uma Stream
+        //Opção 3: Criando uma Stream para coleções de dados
         List<String> list = List.of("A", "B", "C");
         Stream<String> s3 = list.stream();
 
