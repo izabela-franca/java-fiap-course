@@ -17,12 +17,18 @@
 - filter(predicate) : filtar os dados.
 - sorted(Comparator): para ordernar os dados.
 
-- ![img_1.png](img_1.png)
-- 
+- ![img_1.png](img/img_1.png)
+
 - mapToInt(): para transformar uma stream em uma IntStream.
 - max() : para encontrar o maior valor.
 - min() : para encontrar o menor valor.
 - average() :  encontra a média dos valores.
-- ![img_2.png](img_2.png)
+- ![img_2.png](img/img_2.png)
 
 - toList() : é uma operação final para coletar os elementos da stream.
+- ![img_3.png](img/img_3.png)
+
+- Outra forma de criar Streams é através do método generate():
+  - Gera uma stream infinta, portanto temos que limitá-la.
+  - É bastante utilizado quando queremos gerar vários números constantes ou aleatórios.
+  - ![img_4.png](img_4.png)
