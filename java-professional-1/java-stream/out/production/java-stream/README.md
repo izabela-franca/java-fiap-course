@@ -31,4 +31,18 @@
 - Outra forma de criar Streams é através do método generate():
   - Gera uma stream infinta, portanto temos que limitá-la.
   - É bastante utilizado quando queremos gerar vários números constantes ou aleatórios.
-  - ![img_4.png](img_4.png)
+  - ![img_4.png](img/img_4.png)
+
+- Para gerar uma Stream de números aleatórios:
+- Podemos usar os métodos ints(), doubles(), longs(), etc.
+- ![img_5.png](img_5.png)
+
+### :pushpin: Operações Intermediárias:
+
+- map(Function) : transformar uma coisa em outra;
+- mapToInt() : para trabalhar com tipos primitivos (quando utilizá-los, precisamos to toArray() ao invés de toList());
+- ![img_6.png](img_6.png)
+- flatMap(Function) : o retorno dele deve ser uma Stream (junta a Stream de saída com a Stream atual) - > quando trabalhamos com uma lista dentro de outra lista.
+- ![img_7.png](img_7.png)
+- filter(Predicate) : para filtrar uma informação.
+
