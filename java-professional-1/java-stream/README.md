@@ -46,3 +46,11 @@
 - ![img_7.png](img_7.png)
 - filter(Predicate) : para filtrar uma informação.
 - ![img_8.png](img_8.png)
+- distinct() : remove todos os elementos duplicados. Não recebe parâmetro e retorna uma nova stream.
+- ![img_9.png](img_9.png)
+- sorted() :  ordena os elementos de acordo com a ordem natural. Caso queira ordenar de outra forma, devemos colocar como parâmetro o comparator.
+- ![img_10.png](img_10.png)
+- limit(numMaxEl) :  permite criarmos uma Stream limitando o número de elementos.
+- ![img_11.png](img_11.png)
+- peek(Consumer) : muito utilizada durante operações de debug. Permite visualizar o andamento do código.
+- ![img_12.png](img_12.png)
